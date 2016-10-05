@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Juri Strumpflohner",
+    "status": "Currently coding on a screencast",
+    "website": {
+      "url": "http://juristr.com",
+      "name": "juristr.com"
+    },
+    "twitter": {
+      "url": "https://twitter.com/juristr",
+      "name": "@juristr"
+    }
+  },
+  {
+    "name": "Rob Wormald",
+    "status": "fiddling around with Webpack tooling",
+    "twitter": {
+      "url": "https://twitter.com/robwarmald",
+      "name": "@robwormald"
+    }
+  }
+]

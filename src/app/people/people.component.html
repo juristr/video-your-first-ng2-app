@@ -1,0 +1,7 @@
+<button *ngIf="!isAddingNewPerson" (click)="isAddingNewPerson = !isAddingNewPerson">Add new person</button>
+
+<new-person *ngIf="isAddingNewPerson" (onSubmitted)="onSubmit($event)" (onCancel)="isAddingNewPerson = false"></new-person>
+
+<hr>
+
+<profile [person]="person"  *ngFor="let person of people"></profile>
