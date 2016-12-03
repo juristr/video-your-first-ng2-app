@@ -2,6 +2,7 @@
   {
     "name": "Juri Strumpflohner",
     "status": "Currently coding on a screencast",
+    "imgUrl": "https://pbs.twimg.com/profile_images/758788500443500544/EGhOu1BS_400x400.jpg",
     "website": {
       "url": "http://juristr.com",
       "name": "juristr.com"
@@ -14,6 +15,7 @@
   {
     "name": "Rob Wormald",
     "status": "fiddling around with Webpack tooling",
+    "imgUrl": "https://pbs.twimg.com/profile_images/89335737/Picture_39_400x400.png",
     "twitter": {
       "url": "https://twitter.com/robwarmald",
       "name": "@robwormald"

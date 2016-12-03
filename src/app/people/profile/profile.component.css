@@ -13,6 +13,11 @@
   float:left;
 }
 
+.avatar img {
+  width: 80px;
+  height:86px;
+}
+
 .profile {
   margin-left: 10px;
   display: inline-block;
