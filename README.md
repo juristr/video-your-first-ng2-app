@@ -1,9 +1,11 @@
 # Let's create your first Angular 2 application!
 
-Check out the article and video on my blog: 
+Check out the **article and video on my blog**: 
 
 - [Let's create your first Angular 2 app](http://juristr.com/blog/2016/10/lets-create-ur-first-ng2-app/)
 - [Configure Ahead of Time (AoT) for your Angular app using the Angular CLI](http://juristr.com/blog/2016/12/configure-aot-with-angular-cli/)
+
+Also, check out the corresponding [**free step-by-step screencast video on Youtube**](https://www.youtube.com/watch?v=fXHyqSIIF9Q) for this code tutorial here.
 
 For more news and updates, make sure to [follow me on Twitter](https://twitter.com/juristr) :bird:
 
