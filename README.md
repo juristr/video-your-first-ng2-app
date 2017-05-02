@@ -1,4 +1,6 @@
-# Let's create your first Angular 2 application!
+# Let's create your first Angular application!
+
+> For Angular version v2+
 
 Check out the **article and video on my blog**: 
 
