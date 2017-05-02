@@ -1,6 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-
-import { PeopleService } from './people.service';
+import {Component, OnInit} from '@angular/core';
+import {PeopleService} from './people.service';
 
 @Component({
   selector: 'app-people',
@@ -8,10 +7,11 @@ import { PeopleService } from './people.service';
   styleUrls: ['./people.component.css']
 })
 export class PeopleComponent implements OnInit {
-  isAddingNewPerson:boolean = false;
+  isAddingNewPerson = false;
   people = [];
 
-  constructor(private peopleService: PeopleService) { }
+  constructor(private peopleService: PeopleService) {
+  }
 
   ngOnInit() {
     this.peopleService.fetchPeople()

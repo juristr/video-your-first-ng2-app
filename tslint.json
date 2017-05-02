@@ -62,9 +62,9 @@
       "check-whitespace"
     ],
     "quotemark": [
-      true,
-      "single"
-    ],
+       true,
+       "single"
+     ],
     "radix": true,
     "semicolon": [
       "always"
